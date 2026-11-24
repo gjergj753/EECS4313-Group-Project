@@ -16,8 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * Unit tests for PricingService.quote, derived from PROJECT_SPECIFICATION.md (Pricing 1-8, Input constraints).
  * Every expected value was calculated by hand from the spec, not taken from the code.
  *
- * Tests marked "EXPECTED TO FAIL" are defect evidence: they encode the spec and the code disagrees.
- * Do not change their expected values to make them pass.
+ * Do not change their expected values to ma * Tests marked "EXPECTED TO FAIL" are defect evidence: they encode the spec and the code disagrees.ke them pass.
  */
 class PricingServiceTest {
 
